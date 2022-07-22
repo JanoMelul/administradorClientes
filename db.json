@@ -1,0 +1,12 @@
+{
+  "clientes": [
+    {
+      "nombre": "Jano Actualizado",
+      "empresa": "Jano SRL",
+      "email": "correo@correo.com",
+      "telefono": "511132",
+      "notas": "Empresa",
+      "id": 1
+    }
+  ]
+}
